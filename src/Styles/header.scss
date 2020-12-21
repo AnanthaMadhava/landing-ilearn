@@ -1,0 +1,17 @@
+.appHeaderContainer {
+    .headerContainer {
+        .headerContentContainer {
+            display: flex;
+            box-shadow: 5px 2px 8px #888888;
+            .headerContent {
+                margin-left: 5%;
+            }
+            .headerButtonsContainer {
+                margin-left: auto;
+            }
+            .buttonStyles {
+                background-color: #34c9eb !important;
+            }
+        }
+    }
+}

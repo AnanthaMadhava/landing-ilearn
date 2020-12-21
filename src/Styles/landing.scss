@@ -1,0 +1,52 @@
+.landingContainer {
+    .landingHeadContainer {
+        font-size: larger;
+        font-weight: 500;
+        margin-top: 7%;
+    }
+    .firstDivContainer {
+        width: 60%;
+        text-align: start;
+        margin: 2%;
+        font-size: larger;
+        font-weight: 500;
+    }
+    .secondDivContainer {
+        margin: 2%;
+        text-align: start;
+        font-size: larger;
+        font-weight: 500;
+        margin-bottom: 5%;
+    }
+    .thirdDivCardContainer {
+        font-size: larger;
+        font-weight: 500;
+        padding: 1%;
+        box-shadow: 5px 5px 11px #888888;
+        margin: auto;
+        margin-bottom: 7%;
+        width: 90%;
+    }
+    .fourthDivCardContainer {
+        font-size: larger;
+        font-weight: 500;
+        padding: 3%;
+        box-shadow: 5px 5px 11px #888888;
+        margin: auto;
+        width: 86%;
+        margin-bottom: 5%;
+    }
+    .fifthDivCardContainer {
+        margin: 2%;
+        text-align: start;
+        font-size: larger;
+        font-weight: 500;
+        display: flex;
+        justify-content: space-between;
+    }
+    .buttonStyles {
+        display: flex;
+        margin: auto;
+        background-color: #34c9eb !important;
+    }
+}
